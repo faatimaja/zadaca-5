@@ -1,0 +1,98 @@
+body{
+    background-color: 	#8B0000;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1%;
+    font-family: "Verdana", Geneva, sans-serif;
+}
+
+#upperBox{
+    width:100%;
+    height: 400px;
+    background-color: #6F9F78;
+}
+
+#topnav{
+    height: 40px;
+    background-color: gray;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+  
+#topnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+} 
+
+#topnav li {
+    float: left;
+}
+
+#topnav li a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 25px;
+}
+
+#avion{
+    padding-left: 7%;
+    padding-right: 5%;
+    padding-top: 7%;
+    width: 13%;
+    float: left;
+}
+
+#about{
+    width: 65%;
+    float: right; 
+    padding-top: 9%;
+    color: white;
+    padding-right: 5%;
+}
+
+#lowerBox{
+    background-color: #e6e6ff;
+    width: 100%;
+    height: 800px;
+    margin-top: 2%;
+}
+
+#manu2{
+    width: 20%;
+    background-color:  #b3b3ff;
+    float:left;
+    height: 795px;
+    padding-right: 6%;
+    padding-top:5px;;
+}
+
+#manu2 ul{
+    list-style-type: none; 
+}
+
+#manu2 li a{
+    display: block;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: white;
+  }
+
+#work{
+    width:65%;
+    float: right;
+    height:800px;
+    padding-right: 5%;
+    color:#262E27;
+}
+
+hr {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e6e6ff;
+    height: 1px;
+    border: 0 none;
+  }
